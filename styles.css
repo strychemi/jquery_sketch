@@ -1,0 +1,10 @@
+.container {
+  width: 800px;
+  height: 800px;
+}
+
+.square {
+  float: left;
+  background-color: grey;
+  color: green;
+}
