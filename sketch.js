@@ -3,7 +3,6 @@ $(document).ready(function() {
 
     $('.square').hover(function() {
         $(this).css("background-color", "grey");
-
     });
 
     document.getElementById("btn-1").onclick = function() {
